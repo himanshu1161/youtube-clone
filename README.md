@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Introduction
+Step into the world of captivating videos with our React JS-based YouTube clone. Dive into a familiar interface, seamless video playback, and interactive features. Discover a platform where entertainment meets innovation, offering a delightful browsing experience that mirrors the popular video-sharing website.
+
 ## Available Scripts
 
 In the project directory, you can run:
